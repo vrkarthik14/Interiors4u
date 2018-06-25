@@ -1,0 +1,41 @@
+					<div class="blog-post">
+						<div class="post-image">
+							<a href="blog-single.html"><img src="images/blog/blog-post-img-04.jpg" alt=""></a>
+							<div class="post-link-wrapper">
+								<div class="vert-wrap">
+									<div class="vert">
+										<a href="#" class="post-link">http://www.computerrepairlink.com</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<ul class="post-meta">
+							<li class="post-author">by Adam Smith</li>
+							<li><i class="icon icon-clock"></i>10 Oct 2017</li>
+							<li><i class="icon icon-talk"></i>12</li>
+						</ul>
+						<div class="inside">
+							<h2 class="post-title"><a href="blog-single.html">Is The Computer Repair Industry Growing or Declining?</a></h2>
+							<div class="post-teaser">
+								<p>The Computer Repair Industry As a very busy and successful computer repair business in Brisbane this is a question that is obviously of great importance to us. Will the market for our business decline in the way that many other businesses have or are experiencing such as book shops, DVD rental outlets and the sale <a href="">[…]</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="blog-post">
+						<div class="post-image">
+							<div class="post-music">
+								<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/295926514&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+							</div>
+						</div>
+						<ul class="post-meta">
+							<li class="post-author">by Adam Smith</li>
+							<li><i class="icon icon-clock"></i>10 Oct 2017</li>
+							<li><i class="icon icon-talk"></i>12</li>
+						</ul>
+						<div class="inside">
+							<h2 class="post-title"><a href="blog-single.html">Mobile phones, mobile dangers: Protecting children with cell phones</a></h2>
+							<div class="post-teaser">
+								<p>The cell phone in all its iterations -- from pre-paid to smartphones -- has become common throughout the world. According to the United Nations' telecommunications agency, the ITU, there will be over 5 billion mobile phone subscriptions by the end of this year.</p>
+							</div>
+						</div>
+					</div>

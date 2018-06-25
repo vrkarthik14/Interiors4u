@@ -1,0 +1,24 @@
+						<div class="testimonials-item col-sm-6 col-md-4">
+							<div class="inside">
+								<h5 class="title">Laptop Repair</h5>
+								<div class="rating"><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i></div>
+								<div class="text">Problems I had with my laptop was sorted in very short time, reasonable price. Engineer provides good service. Recommended.</div>
+								<div class="username">– Michael P. Solomon</div>
+							</div>
+						</div>
+						<div class="testimonials-item col-sm-6 col-md-4">
+							<div class="inside">
+								<h5 class="title">MacBook Repairs</h5>
+								<div class="rating"><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i></div>
+								<div class="text">My Macbook was repaired same day! These guys know what they are doing. Quick and professional. Recommended to everyone.</div>
+								<div class="username">– Ella H. Wells</div>
+							</div>
+						</div>
+						<div class="testimonials-item col-sm-6 col-md-4">
+							<div class="inside">
+								<h5 class="title">Computer Repairs</h5>
+								<div class="rating"><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i></div>
+								<div class="text">I have used Computer repair for a very long time and have always been pleased with the services and staff.</div>
+								<div class="username">– Frances J. Nicastro</div>
+							</div>
+						</div>
